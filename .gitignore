@@ -1,0 +1,18 @@
+# Power BI / temporary files
+*.pbix
+*.pbit
+*.tmp
+*.temp
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local editor folders
+.vscode/
+.idea/
