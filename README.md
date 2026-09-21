@@ -56,8 +56,6 @@ Síntese dos principais achados e recomendações práticas para portfólio, rel
 
 ## Principais resultados
 
-No período analisado, a base apresentou:
-
 | Indicador | Resultado |
 |---|---:|
 | Faturamento | R$ 4,40 milhões |
@@ -68,7 +66,7 @@ No período analisado, a base apresentou:
 
 Entre as filiais, **Batel** liderou o faturamento, com aproximadamente **R$ 1,43 milhão**, enquanto **Água Verde** apresentou a maior recorrência, com **3,77 compras por cliente**. **Cabral** apresentou o maior ticket médio, próximo de **R$ 455**.
 
-A base de consumidores também apresentou forte concentração geográfica: **2.027 clientes estão em Curitiba**, aproximadamente **77,2% da base**.
+A base também apresentou forte concentração geográfica: **2.027 clientes estão em Curitiba**, aproximadamente **77,2% da base**.
 
 ## Segmentação de clientes
 
@@ -114,6 +112,14 @@ Os descontos médios ficaram próximos entre os segmentos, em torno de **2,3% a 
 
 Por isso, as recomendações de promoção foram tratadas como **hipóteses a serem testadas e acompanhadas por indicadores de resposta**.
 
+## Materiais do projeto
+
+- [Documentação técnica resumida](docs/documentacao-tecnica.md)
+- [Roteiro da apresentação](docs/apresentacao.md)
+- [Medidas DAX](dax/medidas.md)
+- [Notas sobre os dados](data/README.md)
+- [Estrutura do Power BI](powerbi/README.md)
+
 ## Estrutura do repositório
 
 ```text
@@ -129,6 +135,10 @@ retail-market-intelligence/
 │   └── documentacao-tecnica.md
 ├── dax/
 │   └── medidas.md
+├── data/
+│   └── README.md
+├── powerbi/
+│   └── README.md
 └── .gitignore
 ```
 
